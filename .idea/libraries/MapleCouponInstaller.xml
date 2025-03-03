@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MapleCouponInstaller">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/MapleCouponInstaller/dist/MapleCouponInstaller.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

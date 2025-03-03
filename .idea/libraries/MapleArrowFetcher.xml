@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MapleArrowFetcher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/MapleArrowFetcher/dist/MapleArrowFetcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

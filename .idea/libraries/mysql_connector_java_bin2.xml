@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-bin2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/MapleGachaponItemidRetriever/lib/mysql-connector-java-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MapleMesoFetcher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/MapleMesoFetcher/dist/MapleMesoFetcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

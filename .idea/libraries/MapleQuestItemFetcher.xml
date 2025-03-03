@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MapleQuestItemFetcher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/MapleQuestItemFetcher/dist/MapleQuestItemFetcher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

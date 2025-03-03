@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-bin4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/MapleSkillbookChanceFetcher/lib/mysql-connector-java-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="cores">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/HikariCP-java7-2.4.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mina-core-2.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/slf4j-jdk14-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/yamlbeans-1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
